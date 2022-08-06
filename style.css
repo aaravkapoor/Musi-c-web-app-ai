@@ -1,0 +1,13 @@
+.note{
+    width: 100%;
+}
+
+
+
+canvas{
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 9px 9px 9px  lightblue;
+    background-color: black;
+    
+}
